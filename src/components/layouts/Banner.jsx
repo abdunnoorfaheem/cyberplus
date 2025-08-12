@@ -22,6 +22,8 @@ const Banner = () => {
                          <Heading text={"Explore the high-tech, low-life world where the lines between humanity and machinery blur."} tagName={"p"} className={"w-[341px] text-[18px] font-medium font-montserrat leading-[32px] text-[#DDDDDD] text-right mt-[44px] mb-[58px]"}/>
                           <Button className={"ml-[200px]"}>Read More</Button>
                     </div>
+     
+
                 </Flex>
            
         </Container>
